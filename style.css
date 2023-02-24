@@ -1,4 +1,14 @@
 html {
     font-size: 10px;
 }
-/* dont use rem in media queries
+/* dont use rem in media queries*/
+
+body {
+    background: white;
+    padding: 1rem;
+    font-size: 1.6rem;
+}
+
+.grid {
+    
+}
